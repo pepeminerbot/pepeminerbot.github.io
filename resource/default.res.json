@@ -1,0 +1,20 @@
+{
+	"groups": [
+		{
+			"keys": "24478_png,qrcode_jpg",
+			"name": "common"
+		}
+	],
+	"resources": [
+		{
+			"url": "assets/24478.png",
+			"type": "image",
+			"name": "24478_png"
+		},
+		{
+			"url": "assets/qrcode.jpg",
+			"type": "image",
+			"name": "qrcode_jpg"
+		}
+	]
+}
